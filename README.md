@@ -64,7 +64,7 @@ Refresh & Performance: Scheduled Refresh, Incremental Refresh
 
 - Logical & Conditional Logic: SWITCH, NOT, ISBLANK
 
--Time Intelligence:
+- Time Intelligence:
 
   - Year-over-Year (YOY) Loan Amount
 
@@ -72,7 +72,7 @@ Refresh & Performance: Scheduled Refresh, Incremental Refresh
 
   - Year-to-Date (YTD) Loan Amount
 
-🔹 Analytics & Dashboards
+## Analytics & Dashboards
 
 - Built interactive and validated dashboards covering:
 
@@ -86,15 +86,15 @@ Refresh & Performance: Scheduled Refresh, Incremental Refresh
 
   - Decomposition Tree for root-cause analysis
 
-# Visuals used:
+- Visuals used:
 
-- Column Charts
+ - Column Charts
 
-- Line Charts
+ - Line Charts
 
-- Donut Charts
+ - Donut Charts
 
-- Decomposition Tree
+ - Decomposition Tree
 
 🔹 Data Validation & Quality Checks
 
