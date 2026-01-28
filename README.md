@@ -1,7 +1,6 @@
 # End-to-End Power BI Analytics Project (Dataflows-Centric Architecture)
 
- . Project Overview
-
+* Project Overview
 This repository showcases a complete enterprise-level Business Intelligence solution built using Power BI Dataflows, SQL Server, and Power BI Service.
 The project demonstrates how to design, develop, validate, and deploy scalable analytics solutions using modern Power BI architecture, focusing on dataflows, advanced DAX, performance optimization, and automated refresh pipelines.
 
