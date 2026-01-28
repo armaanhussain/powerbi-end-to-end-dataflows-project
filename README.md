@@ -21,6 +21,9 @@ The use case is loan & credit risk analytics, covering loan amounts, default rat
 - Power BI Service for publishing, scheduling, and incremental refresh
 
 ## Tools & Technologies
+<img width="264" height="191" alt="download" src="https://github.com/user-attachments/assets/714c171d-79c3-40e9-a33a-c594ab5cd09f" />
+
+<img width="343" height="147" alt="download" src="https://github.com/user-attachments/assets/88068976-dbeb-4645-8f72-ac175e28220c" />
 
 Data Source: Microsoft SQL Server
 
