@@ -1,6 +1,6 @@
 # End-to-End Power BI Analytics Project (Dataflows-Centric Architecture)
 
-<img width="1200" height="700" alt="powerbi_loan_analytics_readme" src="https://github.com/user-attachments/assets/954cf3b0-1ae4-47d0-b44c-10d823bb0e8e" />
+<img width="1200" height="700" alt="powerbi_loan_analytics_readme" src="https://github.com/user-attachments/assets/bb67bf54-38ce-4645-b692-634999ccd4f2" />
 
  ## Project Overview
 This repository showcases a complete enterprise-level Business Intelligence solution built using Power BI Dataflows, SQL Server, and Power BI Service.
