@@ -17,7 +17,7 @@ The use case is loan & credit risk analytics, covering loan amounts, default rat
 - Power BI Dataflows for centralized ETL and reusable datasets
 
 - Power BI Desktop for modeling, DAX, and visualization
-- 
+  
 - Power BI Service for publishing, scheduling, and incremental refresh
 
 ## Tools & Technologies
@@ -25,17 +25,17 @@ The use case is loan & credit risk analytics, covering loan amounts, default rat
 
 <img width="343" height="147" alt="download" src="https://github.com/user-attachments/assets/88068976-dbeb-4645-8f72-ac175e28220c" />
 
-Data Source: Microsoft SQL Server
+- Data Source: Microsoft SQL Server
 
-ETL & Data Preparation: Power BI Dataflows, Power Query Editor
+- ETL & Data Preparation: Power BI Dataflows, Power Query Editor
 
-BI & Visualization: Power BI Desktop, Power BI Service
+- BI & Visualization: Power BI Desktop, Power BI Service
 
-Gateway: On-Premises Data Gateway (Standard Mode)
+- Gateway: On-Premises Data Gateway (Standard Mode)
 
-Languages & Logic: DAX, SQL
+- Languages & Logic: DAX, SQL
 
-Refresh & Performance: Scheduled Refresh, Incremental Refresh
+- Refresh & Performance: Scheduled Refresh, Incremental Refresh
 
  ## Key Features & Implementations
 
